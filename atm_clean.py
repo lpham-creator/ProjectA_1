@@ -4,6 +4,8 @@ import matplotlib.pyplot as plt
 import pandas as pd
 from scipy.optimize import curve_fit
 
+## AHHHH 28/11/2003
+
 class atm:
     """
     The `atm` class represents a model for the relationship between altitude and temperature.
